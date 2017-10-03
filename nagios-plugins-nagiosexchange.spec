@@ -30,5 +30,5 @@ rm -rf $RPM_BUILD_ROOT
 %{dir}
 
 %changelog
-* Thu Dec 15 2016 Emir Imamagic <eimamagi@srce.hr> - 1.0.0-1%{?dist}
+* Tue Oct 03 2017 Emir Imamagic <eimamagi@srce.hr> - 1.0.0-1%{?dist}
 - Initial version
